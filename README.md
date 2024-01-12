@@ -2,7 +2,7 @@
 
 ## Reference Article
 
-**Important:** For detailed insights and a comprehensive guide on this project, please refer to my article published on GeeksforGeeks: [Light or Dark Theme Changer using Tkinter](https://www.geeksforgeeks.org/light-or-dark-theme-changer-using-tkinter/). 
+**Important:** **For detailed insights and a comprehensive guide on this project, please refer to my article published on GeeksforGeeks: [Light or Dark Theme Changer using Tkinter](https://www.geeksforgeeks.org/light-or-dark-theme-changer-using-tkinter/).**
 
 ## Description
 
